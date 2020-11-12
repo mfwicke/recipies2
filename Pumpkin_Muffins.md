@@ -52,4 +52,4 @@ Fill two normal size greased muffin tins and bake for 25 minutes [Baking] or unt
 
 > Muffins should not appear wet coming out of the oven. If they are, they probably need more time. It’s possible the muffins could finish cooking in as little as twenty minutes, but undercooked muffins usually aren’t as good as just slightly over cooked ones. To be safe, start watching the oven after about twenty minutes.
 
-![Tasty Muffins!](E1F1B55B-248F-479E-A302-7CC53E4D9010.jpeg)
+![Tasty Muffins!](./Photos/E1F1B55B-248F-479E-A302-7CC53E4D9010.jpeg)
